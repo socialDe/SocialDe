@@ -19,7 +19,7 @@
 
 <div align=center>
   
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsocialDe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sdesigner.tistory.com/)](https://sdesigner.tistory.com/)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsocialDe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sdesigner.tistory.com/)](https://sdesigner.tistory.com/) <a href="mailto:jaeuk9407@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white"/></a>
    
 </div>
 
