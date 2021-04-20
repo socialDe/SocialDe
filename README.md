@@ -3,8 +3,7 @@
    * I love to learn anything 📖
    * I'm interested in creating clean code and architecture 🤔 
 
-
-<br><br>
+<br>
 <div align=center>
   
 ## Tech
