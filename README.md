@@ -8,6 +8,8 @@
 
 ### Backend
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 https://img.shields.io/badge/Java-#FFB13B?style=flat&logo=Java&logoColor=white&link=https://github.com/socialDe
 https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white&link=https://github.com/socialDe
 https://img.shields.io/badge/Eclipse%20IDE-#2C2255 style=flat&logo=Eclipse%20IDE&logoColor=white&link=https://github.com/socialDe 
