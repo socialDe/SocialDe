@@ -8,7 +8,7 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Java-#FFB13B?style=flat&logo=Java&logoColor=white&link=https://github.com/socialDe"/>
+<img src="https://img.shields.io/badge/Java-#FFB13B?style=flat&logo=Java&logoColor=white"/>
 
 https://img.shields.io/badge/Java-#FFB13B?style=flat&logo=Java&logoColor=white&link=https://github.com/socialDe
 https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white&link=https://github.com/socialDe
