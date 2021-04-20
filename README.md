@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Hi%20there&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Hi%20there!&fontSize=60&animation=twinkling)
    * Junior Backend Developer 🌱 
    * I love to learn anything 📖
    * I'm interested in creating clean code and architecture 🤔 
