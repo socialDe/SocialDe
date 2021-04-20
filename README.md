@@ -8,15 +8,7 @@
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Java-FFB13B?style=flat&logo=Java&logoColor=white"/>
-
-https://img.shields.io/badge/Java-#FFB13B?style=flat&logo=Java&logoColor=white&link=https://github.com/socialDe
-https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white&link=https://github.com/socialDe
-https://img.shields.io/badge/Eclipse%20IDE-#2C2255 style=flat&logo=Eclipse%20IDE&logoColor=white&link=https://github.com/socialDe 
-
-https://img.shields.io/badge/Git-#F05032?style=flat&logo=Git&logoColor=white&link=https://github.com/socialDe
-
-https://img.shields.io/endpoint?url=https://github.com/socialDe&style=flat&logo=Java
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse%20IDE-2c2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/>
 
 Java
 Spring
